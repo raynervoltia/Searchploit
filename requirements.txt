@@ -1,0 +1,2 @@
+# Searchploit uses standard Python 3 libraries (zero external dependencies required)
+# Runs out-of-the-box on Python 3.8+
